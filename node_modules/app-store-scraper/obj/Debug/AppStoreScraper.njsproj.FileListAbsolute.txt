@@ -1,0 +1,3 @@
+D:\Software\Webscraping\app-store-scraper-master\obj\Debug\AppStoreScraper.njsprojAssemblyReference.cache
+D:\Software\Webscraping\app-store-scraper-master\obj\Debug\AppStoreScraper.njsproj.CoreCompileInputs.cache
+D:\Software\Webscraping\app-store-scraper-master\bin\Microsoft.NodejsTools.WebRole.dll
